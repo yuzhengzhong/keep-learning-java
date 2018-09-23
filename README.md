@@ -14,11 +14,13 @@
 掌握分布式原理，掌握各种高并发大数据等场景解决方案。深入理解业界框架和解决方案设计理念，并进行架构技术选型。
 
 ##### 可用性架构
-* [Mysql高可用性架构!](architect/mysqlha/mysqlha.md)
+* [Mysql高可用性架构!](https://mp.weixin.qq.com/s?__biz=MzU2NDExMjM4Mw==&mid=2247483668&idx=1&sn=7919a686b4f58df02b4b2535de653786&chksm=fc4ebf84cb39369213808b852338af00cc019d971a9c98960f2828f940c632bb3a63db9c169b&token=262881995&lang=zh_CN#rd)
 
 ##### 分布式事务架构
 * [2PC两阶段提交! - 待写](architect/mysqlha/mysqlha.md)
 * [TCC! - 待写](architect/mysqlha/mysqlha.md)
 
 ### 我的公众号
+接收最新消息欢迎关注公众号
+![公众号](images/qrcode.png)
 
