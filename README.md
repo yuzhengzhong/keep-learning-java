@@ -8,4 +8,4 @@
 ### Java高级工程师
 
 ### Java架构师
-[Mysql高可用性架构!](architect/myslqha)
+* [Mysql高可用性架构!](architect/mysqlha)
