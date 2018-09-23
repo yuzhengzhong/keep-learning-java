@@ -13,7 +13,7 @@
 ### Java架构师
 掌握分布式原理，掌握各种高并发大数据等场景解决方案。深入理解业界框架和解决方案设计理念，并进行架构技术选型。
 
-* [Mysql高可用性架构!](architect/mysqlha/mysqlha)
+* [Mysql高可用性架构!](architect/mysqlha/mysqlha.md)
 
 ### 我的公众号
 
