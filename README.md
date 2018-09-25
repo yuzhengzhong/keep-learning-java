@@ -7,6 +7,8 @@
 ### Java中级工程师
 掌握各项Java高级特性，理解各类框架流程原理，理解面向对象理念并对业务和机制抽象封装，定位框架和机制类问题。
 
+* [泛型擦除!](https://mp.weixin.qq.com/s?__biz=MzU2NDExMjM4Mw==&mid=2247483674&idx=1&sn=babc6074dc677d48b194735d8c763659&chksm=fc4ebf8acb39369c6d73e88166a113cc949800cc4cae1162d8a582bd5d6b6590dda9071948aa&token=2075710980&lang=zh_CN#rd)
+
 ### Java高级工程师
 掌握各项分布式中间件的使用及流程原理，能够针对JVM、多线程、数据库等各方面的性能问题定位并调优。
 
