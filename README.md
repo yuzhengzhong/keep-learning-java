@@ -3,6 +3,7 @@
 
 ### Java初级工程师
 掌握Java语法和各类框架的使用，能够对项目需求进行业务开发。
+* [Spring Boot整合Spring MVC、Spring、Spring Data JPA(Hibernate)](https://mp.weixin.qq.com/s?__biz=MzU2NDExMjM4Mw==&mid=2247483681&idx=1&sn=2de5a03ac89a33d70a527ad690bd3a01&chksm=fc4ebfb1cb3936a701f30ed51f0c3496c52613e7dc5fd4a929011726499e84ac3d93519eec49&token=776238431&lang=zh_CN#rd)
 
 ### Java中级工程师
 掌握各项Java高级特性，理解各类框架流程原理，理解面向对象理念并对业务和机制抽象封装，定位框架和机制类问题。
