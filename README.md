@@ -20,7 +20,7 @@
 * [Mysql高可用性架构!](https://mp.weixin.qq.com/s?__biz=MzU2NDExMjM4Mw==&mid=2247483668&idx=1&sn=7919a686b4f58df02b4b2535de653786&chksm=fc4ebf84cb39369213808b852338af00cc019d971a9c98960f2828f940c632bb3a63db9c169b&token=262881995&lang=zh_CN#rd)
 
 ##### 分布式事务架构
-* [2PC两阶段提交! - 待写](architect/mysqlha/mysqlha.md)
+* [2PC两阶段提交!](https://mp.weixin.qq.com/s?__biz=MzU2NDExMjM4Mw==&mid=2247483690&idx=1&sn=dba8b5e81fa1126a2efc7610ff7f3ed6&chksm=fc4ebfbacb3936ac92c753b0d12465e24e1088450fc55b959809996a67ac67e813fe8bcff736&token=1663054106&lang=zh_CN#rd)
 * [TCC! - 待写](architect/mysqlha/mysqlha.md)
 
 ### 我的公众号
